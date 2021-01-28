@@ -3,7 +3,7 @@
 #
 # Instructions
 ## 1. Make sure Python is installed
-* Use command `Python --verison` to determine which Python verison is installed on your local device
+* Use command `Python --version` to determine which Python verison is installed on your local device
 ### Windows users
 * Open Windows Command Prompt
 ### Mac OS / Linux
