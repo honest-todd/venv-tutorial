@@ -3,13 +3,13 @@
 #
 # Instructions
 ## 1. Make sure Python is installed
-* Use command `Python --version` to determine which Python verison is installed on your local device
+* Use command `Python --version` to determine which Python version is installed on your local device
 ## ![](gif/1.gif)
 ## 2. Create a new virtual envirement
 * Specify a path and name for your new envirement.
 * `Python3 -m venv path/to/my_env`
 ## ![](gif/2.gif)
-## 3. Enter workspace of new envirement
+## 3. Enter your new workspace
 * use `cd` and type a `file path` to enter a new directory.
 ## ![](gif/3.gif)
 ## 4. Make sure everything is in place
