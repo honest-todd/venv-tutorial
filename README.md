@@ -4,10 +4,6 @@
 # Instructions
 ## 1. Make sure Python is installed
 * Use command `Python --version` to determine which Python verison is installed on your local device
-### Windows users
-* Open Windows Command Prompt
-### Mac OS / Linux
-* Open Terminal 
 ## ![](gif/1.gif)
 ## 2. Create a new virtual envirement
 * Specify a path and name for your new envirement.
