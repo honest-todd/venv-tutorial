@@ -1,5 +1,5 @@
-# Python Virtual Environments
-### _If you are a frequent Python user you have likely encountered issues handling package dependancies. Luckily Virtual Environments allow users to manage multiple combinations of packages without affecting the main global instillation. In this tutorial you will learn how to create and manage differnet environments with the lightweight package `venv`._ 
+# Python Virtual Envirements
+### _If you are a frequent Python user you have likely encountered issues handling package dependancies. Luckily virtual envirement allow users to manage multiple combinations of packages without affecting the main global instillation. In this tutorial you will learn how to create and manage differnet environments with the lightweight package `venv`._ 
 #
 # Instructions
 ## 1. Make sure Python is installed
@@ -9,20 +9,20 @@
 ### Mac OS / Linux
 * Open Terminal 
 ## ![](gif/1.gif)
-## 2. Create a new virtual environment
-* Specify a path and name for your new environment.
+## 2. Create a new virtual envirement
+* Specify a path and name for your new envirement.
 * `Python3 -m venv path/to/my_env`
 ## ![](gif/2.gif)
-## 3. Enter workspace of new environment
+## 3. Enter workspace of new envirement
 * use `cd` and type a `file path` to enter a new directory.
 ## ![](gif/3.gif)
 ## 4. Make sure everything is in place
 * `ls` shows contents of current directory.
 ## ![](gif/4.gif)
-## 5. Activate your environment
-* use the `source <venv>/bin/activate` command to activate your environment.
+## 5. Activate your envirement
+* use the `source <venv>/bin/activate` command to activate your envirement.
 ## ![](gif/5.gif)
-## 6. Enter virtaul environment 
+## 6. Enter virtaul envirement 
 * type `cd` and specify a `file path` to enter a new directory.
 ## ![](gif/6.gif)
 ## 7. View changes
@@ -33,8 +33,8 @@
 * install any packages in your new envirement.
 * use `pip` or `pip3 install` if using Python3.
 ## ![](gif/8.gif)
-## 9. Deactivate the environment
-* use the command `deactivate` to exit the environment.
+## 9. Deactivate the envirement
+* use the command `deactivate` to exit the envirement.
 * now you're back to your global packages!
 ## ![](gif/9.gif)
 # _That's it. Enjoy!_
