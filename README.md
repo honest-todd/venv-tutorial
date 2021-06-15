@@ -6,7 +6,7 @@
 * Use command `Python --version` to determine which Python version is installed on your local device
 ## ![](gif/1.gif)
 ## 2. Create a new virtual environment
-* Specify a path and name for your new environment.
+* Specify a path and name for your new environment
 * `Python3 -m venv path/to/my_env`
 ## ![](gif/2.gif)
 ## 3. Enter your new workspace
