@@ -2,7 +2,7 @@
 ### _If you are a frequent Python user you have likely encountered issues handling package dependancies. Luckily virtual environment allow users to manage multiple combinations of packages without affecting the main global instillation. In this tutorial you will learn how to create and manage differnet environments with the lightweight package `venv`._ 
 #
 # Instructions
-## 1. Make sure Python is installed
+## 1. Install Python
 * Use command `Python --version` to determine which Python version is installed on your local device
 ## ![](gif/1.gif)
 ## 2. Create a new virtual environment
